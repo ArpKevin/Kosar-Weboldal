@@ -1,8 +1,8 @@
 
-Bevezető
+Bevezető:
 A következő dokumentáció egy egyszerű kosár weboldalt ismertet, HTML-t és Javascript-et használva. Az alkalmazással termékeket vehetünk fel egy listába, megadva a termék nevét, egységárát és darabszámát, s ezt egy gomb lenyomásával megjeleníti a képernyőre, a végösszeggel kiegészítve, amit Javascript segítségével számol ki a program.
  
-Felhasználói dokumentáció
+Felhasználói dokumentáció:
 Alkalmazás használata
 Az alkalmazás egy egyszerű űrlapot tartalmaz, ahol a felhasználók megadhatják a termék nevét, darabszámát és egységárát. A "Hozzáadás" gomb lenyomásával a megadott adatok egy új sorban jelennek meg a lista részben. A lista tartalmazza a termék nevét, egységárát, darabszámát és a végösszeget.
  
@@ -29,5 +29,5 @@ A JavaScript kódban található Hozzaad() függvény felelős az űrlap adatain
 Alternatív Megoldás
 A kódban található kikommentezett kód egy alternatív megoldást jelöl. Ez az alternatív megközelítés egy eseményfigyelőt alkalmaz a gombra a JavaScript addEventListener segítségével. Ez annyi különbséget tesz, hogy a HTML-ben nem kell referenciát rendelnünk a script függvényére, hanem a függvény várja a weboldalon történt eseményt, ami ezesetben a Hozzáadás gomb megnyomása.
 
-Összefoglalás
+Összefoglalás:
 Az alkalmazás egy egyszerű kosár megvalósítását mutatja be HTML és JavaScript segítségével. A felhasználók könnyen adhatnak hozzá termékeket, és a lista frissül a felhasználói interakciókra. A fejlesztői dokumentáció segítséget nyújt az alkalmazás fejlesztői szempontjainak megértésében és testreszabásában.
